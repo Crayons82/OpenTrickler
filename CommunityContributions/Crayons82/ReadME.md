@@ -34,8 +34,10 @@ https://www.aliexpress.us/item/3256810066508191.html?spm=a2g0o.productlist.main.
  
 ## additonal information 
 
-Use the links above for the proper LEDs and lens. Lens may need a small amount of sanding on the edges to get them to fit propperly.  
+Use the links above for the proper LEDs and lens. Lens may need a small amount of sanding on the edges to get them to fit propperly. Pay close attention for proper orientation of the lens as the back is rectanglular and shoud me orientated vertically 
 
 In the images folder you will find 2 photos.  one images shows the front body with the led and wire between the front body and led wire housing. Make sure you insert the wire before sliding the front body into place and secureing.  The second image you can see the wire securment fasteners and the led retainer clip. 
 
 Fine trickler inserts.  these inserts will screw into the large fine trickler tube. i recomment you screw each insert in before installing the tube to test fitment. should be tight and might need to screw in and out to get it them to seat all the way. 
+
+IF you have questions you can find me on the discord just send me a message and i'll respond as soon as i can.
