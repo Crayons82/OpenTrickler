@@ -23,5 +23,3 @@ https://www.aliexpress.us/item/3256810066508191.html?spm=a2g0o.productlist.main.
 ## Assembly guide
 
 ### Rear discharge mount
-Use 4x M3x12 SHCS with [rear_discharge_mount.stl](STL/rear_discharge_mount.stl) to join the [rear_body_without_holes.stl](STL/rear_body_without_holes.stl) to the [scale_shield.stl](STL/scale_shield.stl).
-![Rear_discharge_mount.jpg]
