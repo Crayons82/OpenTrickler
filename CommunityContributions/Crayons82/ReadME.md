@@ -1,6 +1,13 @@
 
 # **A&D FX Shield by Crayons82**
 
+## printing
+- Layer hight .16
+- Line width .42
+- Top and bottom layer 4/5
+- Wall layers 4/5
+- Infill 25%
+
 ## BOM
 - Heatset Inserts M3x5x4: 28
 
@@ -20,4 +27,14 @@ https://www.aliexpress.us/item/3256810066508191.html?spm=a2g0o.productlist.main.
 
 ## Assembly guide
 
-### Rear discharge mount
+ To assembly please reffer to Memphis's V1 readme.  
+ 
+## additonal information 
+
+I recommend printing from the Step files over the STL. Step files are more accurate and give better finish.
+
+Use the links above for the proper LEDs and lens. Lens may need a small amount of sanding on the edges to get them to fit propperly.  
+
+In the images folder you will find 2 photos.  one images shows the front body with the led and wire between the front body and led wire housing. Make sure you insert the wire before sliding the front body into place and secureing.  The second image you can see the wire securment fasteners and the led retainer clip. 
+
+Fine trickler inserts.  these inserts will screw into the large fine trickler tube. i recomment you screw each insert in before installing the tube to test fitment. should be tight and might need to screw in and out to get it them to seat all the way. 
