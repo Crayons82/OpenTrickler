@@ -2,9 +2,7 @@
 # **A&D FX Shield by Crayons82**
 
 ## BOM
-- Heatset Inserts M3x5x4: 24
-
-- Nut M3: 4
+- Heatset Inserts M3x5x4: 28
 
 - M3x6 BHCS: 4
 
