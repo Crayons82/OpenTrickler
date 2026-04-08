@@ -1,12 +1,15 @@
 
 # **A&D FX Shield by Crayons82**
 
-## printing
+## Printing
 - Layer hight .16
 - Line width .42
 - Top and bottom layer 4/5
 - Wall layers 4/5
 - Infill 25%
+
+## I recommend printing from the Step files over the STL. Step files are more accurate and give better finish.
+
 
 ## BOM
 - Heatset Inserts M3x5x4: 28
@@ -30,8 +33,6 @@ https://www.aliexpress.us/item/3256810066508191.html?spm=a2g0o.productlist.main.
  To assembly please reffer to Memphis's V1 readme.  
  
 ## additonal information 
-
-I recommend printing from the Step files over the STL. Step files are more accurate and give better finish.
 
 Use the links above for the proper LEDs and lens. Lens may need a small amount of sanding on the edges to get them to fit propperly.  
 
